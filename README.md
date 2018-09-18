@@ -21,5 +21,5 @@ Run the shell file in terminal
 ./tfilexmlcsv_new_run.sh
 ```
 
-###Schedular
+Note:-
 The job can be scheduled to run at regular interval with cron tool.
